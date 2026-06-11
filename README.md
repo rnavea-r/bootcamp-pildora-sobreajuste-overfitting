@@ -10,7 +10,7 @@ Dicho de otra forma: el modelo explica perfectamente el pasado, pero falla predi
 ## 📂 Contenido del repositorio
 
 ```
-📁 overfitting-pildora/
+📁 bootcamp-pildora-sobreajuste-overfitting/
 ├── 💻 codigo/
 │   └── overfitting_ejemplo.py
 └── 📄 README.md
