@@ -6,6 +6,7 @@ El **overfitting** o sobreajuste ocurre cuando un modelo de Machine Learning es 
 
 Dicho de otra forma: el modelo explica perfectamente el pasado, pero falla prediciendo el futuro.
 
+Presentación en [Gamma](https://gamma.app/docs/sjq31huhrhuydn7)
 ---
 ## 📂 Contenido del repositorio
 
